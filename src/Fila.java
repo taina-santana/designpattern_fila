@@ -1,3 +1,6 @@
+import java.util.LinkedList;
+import java.util.Queue;
+
 public class Fila {
     private static Fila instanciaUnica;
     private Queue<String> documentos;
